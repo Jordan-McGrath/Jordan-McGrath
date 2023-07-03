@@ -1,3 +1,5 @@
+[![MasterHead](https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png)](https://j-mcgrath.com)
+
 <h1 align="center">Hi 👋, I'm Jordan McGrath</h1>
 <h3 align="center">A Passionate Full-Stack Developer and a Computer Science Masters Student</h3>
 
