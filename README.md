@@ -1,11 +1,9 @@
 [![MasterHead](https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png)](https://j-mcgrath.com)
 
-<h1 align="center">Hi 👋, I'm Jordan McGrath</h1>
+<h1 align="center">Hi, I'm Jordan McGrath</h1>
 <h3 align="center">A Passionate Full-Stack Developer and a Computer Science Masters Student</h3>
 
 - 🔭 I’m currently working on **Serverless Music Streaming Application**
-
-- 👨‍💻 All of my projects are available at [j-mcgrath.com](j-mcgrath.com)
 
 - ⚡ Fun fact: **I'm a Professional Photographer and Drummer of 17 Years. I have a black and white cat named Ralph 🐈 **
 
